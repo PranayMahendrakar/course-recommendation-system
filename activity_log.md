@@ -6,3 +6,4 @@
 - [2026-03-09T12:04:59Z] style: apply consistent code formatting
 - [2026-03-09T16:07:39Z] test: add unit tests for core module
 - [2026-03-09T21:16:46Z] fix: resolve edge case in input validation
+- [2026-05-06T09:00:22Z] fix: handle null pointer exception
